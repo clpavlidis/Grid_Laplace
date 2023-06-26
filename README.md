@@ -65,7 +65,7 @@ chmod +x ./Grid_Laplace.exe
 
 - Informational data, about the code provess (CPU needed time, etc.)
 
-## Data
+## Contact Data
 
 - Author: Chariton L. Pavlidis (@clpavlidis), aka "Bogdan"
 - Contact: clpavlidis@outlook.com
