@@ -45,7 +45,7 @@ chmod +x ./Grid_Laplace.exe
 ./Grid_Laplace.exe
 ```
 
-## Outputs
+## Output Files
 
 - Initial computational grid (with the selected node, placed outside the computational grid)
 
